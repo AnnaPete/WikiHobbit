@@ -28,5 +28,8 @@ Anna Peterson  [GitHub](https://github.com/AnnaPete/)   [LinkedIn](https://www.l
 6. Type git clone https://github.com/AnnaPete/WikiHobbit/
 7. Open the repository in your text editor and run open index.html
 
+### Deployed Site
+[WikiHobbit](https://annapete.github.io/WikiHobbit/)
+
 
 ENJOY!
